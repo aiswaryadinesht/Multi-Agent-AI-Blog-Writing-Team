@@ -35,9 +35,6 @@ python run_app.py
 streamlit run streamlit_app.py
 ```
 
-### **Access URL:**
-- **Local:** http://localhost:8501
-- **Network:** http://your-ip:8501
 
 ### **Create Blog Posts:**
 1. Enter topic in sidebar form
